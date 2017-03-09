@@ -1,4 +1,4 @@
-# Making-predictions-on-the-Iris-Dataset
+# Making predictions on the Iris Dataset
 
 This is dead simple and watered down `Machine Learning model selection and evaluation` project using  `Scikit-learn`(`Python`) for making predictions on the [Iris Data Set](https://archive.ics.uci.edu/ml/datasets/Iris) inspired by a tutorial by Dr. Jason Brownlee. <br>
 
